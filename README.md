@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pradhyum</h1>
 <h3 align="center">A passionate AI & ML enthusiast from India</h3>
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhyum6144&label=Profile%20views&color=0e75b6&style=flat" alt="pradhyum6144" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhyum6144&label=Profile%20views&color=0e75b6&style=flat" alt="pradhyum6144" /> </p>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradhyum6144" alt="pradhyum6144" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradhyum6144" alt="pradhyum6144" /></a> </p>
 
 - 🌱 I’m currently learning **AI & ML**
 
